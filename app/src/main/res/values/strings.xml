@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Love Calculator</string>
+    <string name="crush_name">Crush Name</string>
+    <string name="your_name">Your Name</string>
+    <string name="love">Love</string>
+    <string name="Calculate">Calculate</string>
+    <string name="love_is_in_the_air_drop">Love is in the air drop</string>
+    <string name="calculate_again">Calculate Again</string>
+
+</resources>
